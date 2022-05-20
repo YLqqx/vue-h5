@@ -1,0 +1,76 @@
+export const publics = {
+    publics01:'连接钱包',
+    publics02:'未到领取时间',
+    publics03:'未质押',
+    publics04:'请有效输入',
+    publics05:'余额不足',
+    publics06:'暂无奖励',
+}
+export const tabbar = {
+    tabbar01:'首页',
+    tabbar02:'LP质押',
+    tabbar03:'NFT',
+    tabbar04:'治理',
+}
+export const link = {
+    link01:'首页',
+    link02:'LP质押',
+    link03:'NFT',
+    link04:'DAO治理',
+    link05:'审计',
+    link06:'白皮书',
+    link07:'Github',
+    link08:'English',
+}
+export const home = {
+    home01:'DAO质押总量',
+    home02:'SMC 流通市值',
+    home03:'SMC 流通量',
+    home04:'SMC 单价',
+    home05:'已销毁SMC数量',
+}
+export const lppool = {
+    lppool01:'年化',
+    lppool02:'日化',
+    lppool03:'日产量',
+    lppool04:'总质押',
+    lppool05:'我的质押',
+    lppool06:'未质押',
+    lppool07:'未领取SMC奖励',
+    lppool08:'下次领取时间：',
+    lppool09:'取出',
+    lppool10:'质押',
+    lppool11:'领取奖励',
+    lppool12:'添加薄饼流动性',
+    lppool13:'请输入质押数量',
+    lppool14:'最大',
+    lppool15:'我的余额',
+    lppool16:'确认',
+    lppool17:'授权',
+    lppool18:'余额不足',
+}
+export const nft = {
+    nft01:'NFT展示',
+}
+export const dao = {
+    dao01:'DAO总质押数量',
+    dao02:'SMC 总质押',
+    dao03:'我的质押',
+    dao04:'年化单利',
+    dao05:'年化复利',
+    dao06:'我的余额',
+    dao07:'我的收益',
+    dao08:'结束时间',
+    dao09:'单利',
+    dao10:'复利',
+    dao11:'暂未质押',
+    dao12:'取出',
+    dao13:'质押',
+    dao14:'请输入质押数量',
+    dao15:'最大',
+    dao16:'自动质押',
+    dao17:'我的余额',
+    dao18:'确认',
+    dao19:'授权',
+    dao20:'余额不足',
+}
